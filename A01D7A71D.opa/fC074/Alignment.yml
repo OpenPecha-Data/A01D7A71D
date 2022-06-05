@@ -1,0 +1,25 @@
+segment_sources:
+  I44500A04:
+    type: origin_type
+    relation: translation
+    language: en
+  ID3BD4A64:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  73d14a061802419da2457cf2965e4ef0:
+    I44500A04: 22eb2fafddd045baa9659b722cd9f5fe
+    ID3BD4A64: 62acb4781b4e4c8b858b35818adb6b3b
+  8bfa6c1001d145adbeecf12d0efe254a:
+    I44500A04: 02289c17b3304353abb5e0d64e6ef8a9
+    ID3BD4A64: c9f0dc094c5047d78ba8f2b9a466622f
+  4ce0225ceefb4ecb9bb8c8eff521929b:
+    I44500A04: a5c06e7888c84dea9ec83775b5b73418
+    ID3BD4A64: eab992c8bd424b0bb67bec52bd1f2ea6
+  008b2940733f4177bce5919a2b1a5df1:
+    I44500A04: 5a078d0871f1453589f8d426f0f5776d
+    ID3BD4A64: 52cec036a0004848be802ce184d04e1d
+  0dfb512fe0c34cc3884d5d94ee18f743:
+    I44500A04: 1eb3be72231e49cba88bcbcef716e0c6
+    ID3BD4A64: cf1895ed8dc141c8887fefc953baf938
